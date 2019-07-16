@@ -1,0 +1,23 @@
+{
+  "name": "shiny-happiness-node-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salehsub90/shiny-happiness-node-course.git"
+  },
+  "author": "Saleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salehsub90/shiny-happiness-node-course/issues"
+  },
+  "homepage": "https://github.com/salehsub90/shiny-happiness-node-course#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
