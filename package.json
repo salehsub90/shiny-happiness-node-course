@@ -19,5 +19,8 @@
   "homepage": "https://github.com/salehsub90/shiny-happiness-node-course#readme",
   "devDependencies": {
     "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
